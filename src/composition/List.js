@@ -21,7 +21,7 @@ function List(props) {
             className='List-add-button'
             >
               + Add Random Card
-            </button>
+          </button>
         </div>
       </section>
   );
